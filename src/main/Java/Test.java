@@ -6,8 +6,8 @@ public class Test {
             System.out.println("hello01");
             System.out.println("hello05");
             System.out.println("hello08");
+            System.out.println("hello00");
 
-        System.out.println("hello01");
-        System.out.println("hello02");
+
     }
 }
